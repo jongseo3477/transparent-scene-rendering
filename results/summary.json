@@ -1,0 +1,134 @@
+{
+  "scenes": [
+    {
+      "scene": "194defaa605986166d52ae703b1d44d1a557794698386becaaa5f688f4fb026b",
+      "views": 40,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 27.870589351654054,
+      "ssim": 0.8808327853679657,
+      "lpips_glint": 0.1613650556653738,
+      "lpips_standard": 0.19538305476307868,
+      "official_json_sha256": "105bf01dbe4388435a860109f7f898ae37e5ce94269ae85e6f113f2f6d540759"
+    },
+    {
+      "scene": "3712b8fdcb94128c92c2e2c30fb529851e3231cdc7c4451bc6c784f923386e93",
+      "views": 51,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "flow",
+      "psnr": 31.35095551434685,
+      "ssim": 0.9393894660706613,
+      "lpips_glint": 0.0843866195018385,
+      "lpips_standard": 0.10809072318906877,
+      "official_json_sha256": "8e91679c17f0752d15343272897e26dc72e268cc831879e6c45508e085e31062"
+    },
+    {
+      "scene": "52410f0264d14bde6acd695c637aaa274833be8afcf05ef4fd6a51176ad2dbd2",
+      "views": 48,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 36.9006233215332,
+      "ssim": 0.9659383048613867,
+      "lpips_glint": 0.08247490188417335,
+      "lpips_standard": 0.1185339215832452,
+      "official_json_sha256": "2ea6d0eb06082b0980f3ef3bb6d98e2760260af2106f2a3759ebfdfed1029705"
+    },
+    {
+      "scene": "543b6607de9318e3a0c68b267a4b616fdc5849a140ba184807d5e70e567f8ec0",
+      "views": 47,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 32.16166585557004,
+      "ssim": 0.943083884868216,
+      "lpips_glint": 0.07867678635297938,
+      "lpips_standard": 0.09657573604837377,
+      "official_json_sha256": "7f935a213869868e1f756f8acf86737401d701be2966748327cc999848c13af5"
+    },
+    {
+      "scene": "5454b71d612cc2b020e60bd2d8a018dc33d62b5fbd5c041b55a752480a8a97ba",
+      "views": 38,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 35.877340617932774,
+      "ssim": 0.9812718331813812,
+      "lpips_glint": 0.03509382521243472,
+      "lpips_standard": 0.0568211025705463,
+      "official_json_sha256": "5f79056b850912975a026422666dec1614d350a946523f8e7dde261878827e95"
+    },
+    {
+      "scene": "6b42314a2f8a18a193826e2b58e45729453e74524078283f740b8f8d330c3d2f",
+      "views": 41,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 31.19972215047697,
+      "ssim": 0.9415011158803614,
+      "lpips_glint": 0.1024127240042861,
+      "lpips_standard": 0.12753596838291098,
+      "official_json_sha256": "9683fd9d1fc9acd1bd08f88b47418fe0c7298902c4e82b6dff00457b87808655"
+    },
+    {
+      "scene": "b65e86833c1ae29714ce881bb9d14d3ed1256a08ab944fd9e75d6b29c674346d",
+      "views": 47,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 30.82624037722324,
+      "ssim": 0.928913581878581,
+      "lpips_glint": 0.09267688051183173,
+      "lpips_standard": 0.1197145331571711,
+      "official_json_sha256": "27d63fd7dc44adbd627379ee5e4c917a2fb8844453c5d49c75b2c2a619cdb764"
+    },
+    {
+      "scene": "b9df30d6e6078880acc88acb01872c65d337f84b9dba44a23fa29c9861d7e23b",
+      "views": 46,
+      "resolution": [
+        480,
+        270
+      ],
+      "selected_model": "fusion",
+      "psnr": 30.532147075818934,
+      "ssim": 0.92204909739287,
+      "lpips_glint": 0.09085691266733667,
+      "lpips_standard": 0.10528945526027161,
+      "official_json_sha256": "7ad065c27f74be1db39f189b0bc74ce1029fc6a594efceaf162a0739d2ef4bfe"
+    }
+  ],
+  "n_views": 358,
+  "scene_average": {
+    "psnr": 32.08991053306951,
+    "ssim": 0.9378725086876779,
+    "lpips_glint": 0.09099296322503178,
+    "lpips_standard": 0.11599306186933331
+  },
+  "pooled_view_average": {
+    "psnr": 32.1016484212609,
+    "ssim": 0.937975496220189,
+    "lpips_glint": 0.0907336382101701,
+    "lpips_standard": 0.11568355169043194
+  },
+  "paper_table_2": {
+    "psnr": 30.21,
+    "ssim": 0.92,
+    "lpips": 0.11
+  }
+}
