@@ -1,0 +1,6 @@
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+results/**/*.json -text
+*.pdf binary
+*.png binary
